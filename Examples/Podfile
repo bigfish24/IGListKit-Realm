@@ -1,0 +1,11 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'IGListKit-Realm' do
+  use_frameworks!
+
+  # Pods for IGListKit-Realm
+  pod 'IGListKit'
+  pod 'RealmSwift'
+  pod 'RealmSwiftNYTStories'
+end

@@ -1,0 +1,24 @@
+PODS:
+  - IGListKit (1.0.0)
+  - Realm (2.1.0):
+    - Realm/Headers (= 2.1.0)
+  - Realm/Headers (2.1.0)
+  - RealmSwift (2.1.0):
+    - Realm (= 2.1.0)
+  - RealmSwiftNYTStories (1.2):
+    - RealmSwift (>= 0.100.0)
+
+DEPENDENCIES:
+  - IGListKit
+  - RealmSwift
+  - RealmSwiftNYTStories
+
+SPEC CHECKSUMS:
+  IGListKit: 3242c475fa77e2abf2d4de319703088008fbe9b9
+  Realm: bc829ad0ef3d4eea70c34cfcc3b1704d18d50df1
+  RealmSwift: a4d4abbf0088c337cab5b738054395842e4b3052
+  RealmSwiftNYTStories: 1c93043adb0ed519016220162e0f108e6fec625b
+
+PODFILE CHECKSUM: 2ad5e7456743709526f06b7721dce9f1a81f7310
+
+COCOAPODS: 1.1.1
